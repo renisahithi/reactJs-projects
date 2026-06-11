@@ -1,0 +1,21 @@
+.count-btn{
+  border:2px solid black;
+  border-radius:10px;
+  height:30px;
+}
+#div1{
+  border:2px solid black;
+  border-radius:10px;
+  align-items: center;
+  gap:10px;
+  display:flex;
+}
+.app-container{
+  border:2px solid rgb(222, 85, 85);
+  border-radius:10px;
+  height:50%;
+  width:50%;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}

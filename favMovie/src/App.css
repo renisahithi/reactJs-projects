@@ -1,0 +1,15 @@
+div{
+  background-color: black;
+  color:white;
+  height:max-content;
+  width:max-content;
+  padding:10px;
+  border:2px solid;
+}
+body{
+  display: flex;
+  padding:50%;
+  align-items:center;
+  justify-content:center;
+  background-color: rgb(223, 246, 246);
+}

@@ -1,0 +1,40 @@
+label{
+    color:rgb(65, 50, 178);
+
+}
+input{
+  border-radius:10px;
+  border:2px solid;
+  padding:2px;
+}
+.app-container{
+    background-color: antiquewhite;
+    justify-content: center;
+    align-items: center;
+    padding:30px;
+    word-spacing: 20px;
+    display: flex;
+}
+
+#label1{
+    padding-bottom:20px;
+}
+#form{
+    background-color:black;
+    margin:0;
+    gap:10px;
+    display:flex;
+    align-items: center;
+    border:2px solid white;
+    border-radius:10px;
+}
+.feedback-item{
+    background-color: rgba(170, 79, 212, 0.464);
+    height:100px;
+    width:500px;
+    border:2px solid black;
+    border-radius:10px;
+    padding-right:20px;
+    word-spacing:20px;
+    margin:20px;
+}

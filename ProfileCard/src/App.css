@@ -1,0 +1,27 @@
+#div1{
+  border:2px solid red;
+  background-color: rgb(217, 148, 207);
+  border-radius:10px;
+  height: 50%;
+  width:50%;
+  align-items:center;
+  justify-content:center;
+  display:flexbox;
+
+}
+#div2{
+
+  background-color: rgb(204, 165, 241);
+  border:3px solid rgb(49, 126, 79);
+  border-radius:10px;
+  height:50%;
+  width:50%;
+  
+}
+div{
+  padding:2px;
+  word-spacing: 20%;
+  margin:20px;
+  padding: 2px;
+
+}
