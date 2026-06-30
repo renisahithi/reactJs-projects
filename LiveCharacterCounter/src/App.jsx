@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import CharacterInput from "./components/characterInput";
-import CharacterStats from "./components/characterStats";
+import CharacterInput from "./Components/characterInput";
+import CharacterStats from "./Components/characterStats";
 import "./App.css";
 
 function App() {
