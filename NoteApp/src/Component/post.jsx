@@ -8,4 +8,4 @@ function Post({ text }) {
   );
 }
 
-export default Post;
+export default post;
