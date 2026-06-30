@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./App.css";
-import Post from "./Component/Post";
+import post from "./Component/post";
 
 function App() {
   const [notes, setNotes] = useState([
